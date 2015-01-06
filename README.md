@@ -22,16 +22,27 @@ Topic Name: Submission of YourModPackNameHere
 
 
 ModpackName: 
+
 Required Forge version:
+
 What is the current Version number:
+
 Number of mods installed:
+
 List of mods:
+
 List of config files edited from default (please include its location), Have you deleted all default config files:
+
 list of modpack Maintainers (this might be just you):
+
 the git url:
+
 Location of your permission file in your git (this should be outside the src/ folder):
+
 Is a server required if so who would be hosting?:
+
 Why you think this modpack with benefit Lolnet community:
+
 Any more details:
 
 
